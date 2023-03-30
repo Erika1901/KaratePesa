@@ -1,0 +1,11 @@
+first_name,Erina,
+last_name,Douma,
+email,malikadouma19@gmail.com,
+phone,,695568921,
+birth_day,2023-03-29,
+password,123456,
+role,string,
+isActive,true,
+isEmailConfirmed,true,
+isCreatedByAdmin,true
+
